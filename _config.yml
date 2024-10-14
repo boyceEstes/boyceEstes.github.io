@@ -1,6 +1,6 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Ready Set Swift"
+author: "Boyce Estes"
+description: "This is a blog to share my development journey and what I'm learning along the way. Meant for little lessons, deep dives, and experiments along the way." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
