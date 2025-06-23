@@ -2,7 +2,7 @@
 
 Block Habit collects *no* personal data at all from users. It operates without collecting personal information like name, email, or location.
 
-We us an analytics service called Telemetryeck to track how the app is used, such as which features are most popular, to help us improve the app. This data is completely anonymous and cannot be linked back to any individual user.
+We use an analytics service called TelemetryDeck to track how the app is used (such as which features are most popular) to help us improve the app. This data is completely anonymous and cannot be linked back to any individual user.
 
 When your app is deleted from your phone, any habit data that was entered will be universally gone, and impossible to retrieve.
 
